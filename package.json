@@ -1,0 +1,21 @@
+{
+  "name": "backoff.rf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^3.3.0",
+    "mockery": "^1.4.0",
+    "sinon": "^1.17.1"
+  },
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.rms:RMS-Common/back-it-off.git"
+  },
+  "author": "Nassi Harel",
+  "license": "ISC"
+}
